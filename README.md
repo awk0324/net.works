@@ -1,8 +1,3 @@
 # net.works
-collection of artworks with instructions how to re-create them
+This is a collection of artworks which I either authored or collaborated on. One work per folder. See the docs for authorship details and mainly see the HOWTOs to learn how to use them/make your own copies :)
 
-most of these were made in collaboration with other members of the Browserbased group[1]
-
-
-
-[1] http://browserbased.org or https://www.facebook.com/groups/browserbased/
