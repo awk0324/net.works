@@ -1,0 +1,59 @@
+
+From: Leap Second Festival 
+Subject: Re: proposal for leap second festival 2015
+Date: June 25, 2015 at 1:53:41 PM GMT+2
+To: Zsolt Mesterhazy 
+
+Hi Zsolt,
+
+This seems very interesting as it probes the technical issues and problems of the leap second in 
+a self-referential way. I know unix systems just repeat the last second for the leap second, which 
+makes it seem as if time goes backwards. There appears to be three methods for dealing with 
+the leap second: repeat, freeze, smear.
+
+I'd be very glad to include your work in the festival programme, which will be ready tomorrow, as 
+today is the last day of submissions. Please send me as soon as you can the info you want me to 
+include in the programme, title of work, artists, and as "shell script performance/network software 
+performance" and any other relevant info. I hope you'll be able to send documentation of the 
+performance afterwards to be included on the festival website. You might find out from this 
+that The Leap Second Festival in reality, and not only in concept, was more of a non-event! 
+(since the system didn't recognize the leap second :)
+
+Anyway, a most interesting proposal, looking forward to hear from you,
+
+Bjørn
+
+
+
+On Thu, Jun 25, 2015 at 1:21 PM, Zsolt Mesterhazy ‪‬ wrote:
+
+Hi,
+
+How about a 'shell script performance’ or a 'networked software performance’?
+
+We will create a script which will run exactly during the 26th leap second adjustment. The script 
+will perform a http request on the leap second festival website noemata.net/leapsec26, requesting 
+a non-existent document. This act will (likely) be documented in the error log file of the web 
+server running noemata.net website and we will also capture the entire
+interaction from one of the passing network nodes (routers) on our side.
+
+We will reveal name of the requested document only during the performance.
+
+NB. It's also worth elaborating how the leap second looks from the perspective of computer networks. 
+The clocks in computers are being synchronized using the Network Time Protocol (NTP). The way it is 
+implemented, the time in computers actually stands still during the leap second, so the time 
+23.59.59 literally occurs twice and then the clock moves forward towards 00.00.00.
+Also most of the computers do not synchronize their clocks multiple times per second. These will 
+actually not notice the leap second at all. Most likely it will simply jump 1s forward at some 
+arbitrary moment after the leap second has been inserted, discovering its clock
+is suddenly 1s behind the network time.
+
+
+Sources:
+[1] https://www.meinbergglobal.com/english/info/leap-second.htm
+[2] http://doc.ntp.org/4.1.0/leap.htm
+
+best regards,
+
+Radovan Misovic and Zsolt Mesterhazy
+
