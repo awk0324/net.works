@@ -1,5 +1,17 @@
-# leapsec26
+# leapsec26 
+**networked software performance**
 
-**networked software performance.**
+This work has been executed during the [26th Leap Second Festival](http://noemata.net/leapsec26/) on 30th June 2015 at 23.59.59 and 23.59.60 GMT. It was performed by a simple shell script. 
+The files in this repository provide a toolbox allowing anyone with basic knowledge of linux networking to re-create this work.
 
-This work has been made as a part of 26th Leap Second Festival. It was executed by a simple shell script, [hi5.sh](https://github.com/awk0324/net.works/blob/master/leapsec26/hi5.sh). 
+##how to make this work##
+**prerequisities**
+* upcoming leap second occurence. at the time of writing this would be on 31-12-2016, 23.59.60
+* unix/linux system with ntpd running 
+* openwrt router (or a linux box) on LAN
+* workstation capable of running wireshark (optional)
+
+###1. linux system
+###2. openwrt router
+###3. process the results
+
