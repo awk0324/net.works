@@ -10,7 +10,7 @@ For those days when it's 30th of June or 31st of December and no leap second is 
   mplayer -fs --video-rotate=90 https://vimeo.com/223023317
 ```
 
-#### Mac: 
+### Mac: 
   * Download the video from [https://vimeo.com/223023317](https://vimeo.com/223023317)
   * (If you don't have it) download and install VLC from [https://www.videolan.org/vlc/download-macosx.html](https://www.videolan.org/vlc/download-macosx.html)
   * Before playing the video adjust the following two:
