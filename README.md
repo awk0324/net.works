@@ -1,3 +1,3 @@
 # net.works
-This is a collection of artworks which I either authored or collaborated on. One work per folder. See the docs for authorship and details and most importantly see the HOWTOs to learn how to use, recreate, or activate them.
+a collection of artworks which I either authored or collaborated on. see the HOWTOs to re/create them.
 
