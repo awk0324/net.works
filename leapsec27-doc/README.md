@@ -17,6 +17,6 @@ For those days when it's 30th of June or 31st of December and no leap second is 
     * Menu -> Video -> Fullscreen
     * Menu -> Tools -> Effects and Filters -> Video Effects -> Geometry -> Rotate Angle 90
     
-### Don't forget to turn your laptop /computer screen by 90 degrees :)
+**Don't forget to turn your laptop /computer screen by 90 degrees :)**
 
 ![mandatory reference image](https://github.com/awk0324/net.works/blob/master/leapsec27-doc/img/vertical.jpg  "mandatory reference image")
