@@ -5,7 +5,6 @@ This work has been executed during the [26th Leap Second Festival](http://noemat
 
 The files in this repository provide a toolbox allowing anyone with basic knowledge of linux networking to re-create this work.
 
-##how to make this work##
 **prerequisities**
 * upcoming leap second occurence. at the time of writing this would be on 31-12-2016, 23.59.60
 * unix/linux system with ntpd running 
